@@ -1,0 +1,12 @@
+# Rust
+
+## Cargo
+Cargo.lock
+debug/
+target/
+
+## rust-fmt
+**/*.rs.bk
+
+# MSVC
+*.pdb
