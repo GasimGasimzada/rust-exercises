@@ -1,0 +1,5 @@
+hello world
+I am a cat
+learning Rust is fun
+hello again
+Hello capitalized
